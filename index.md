@@ -9,4 +9,5 @@ title: davidwcraig
 
 Welcome to my site. I am learning how to use `jekyll` to set this up.
 
-
+I am basing my work on 
+[McGlone's tutorial](http://jmcglone.com/guides/github-pages/)
