@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Launch blog"
 date: 2020-04-05
 ---
